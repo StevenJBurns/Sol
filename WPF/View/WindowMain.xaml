@@ -1,0 +1,9 @@
+﻿<Window xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="clr-namespace:SJB.Sol.ViewModel"
+        x:Class="SJB.Sol.Application.WindowMain"
+        WindowStartupLocation="CenterScreen" Title="Sol"
+        Height="300" Width="400" Background="LightGray">
+  <!--Window.DataContext></Window.DataContext> -->
+  <Button Height="24" Width="96">Hi</Button>
+</Window>
